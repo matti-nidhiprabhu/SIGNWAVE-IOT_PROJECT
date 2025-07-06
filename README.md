@@ -19,6 +19,7 @@ Education and training tools for learning basic sign language
 
 Simple, embedded IoT systems with real-world social impact
 
-Code,images are uploaded above.
+
+# Code,images and circuit diagram are uploaded above in the repo.
 
 ![Screenshot](images/sw.jpg)
