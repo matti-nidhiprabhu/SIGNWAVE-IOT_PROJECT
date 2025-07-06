@@ -21,4 +21,4 @@ Simple, embedded IoT systems with real-world social impact
 
 Code,images are uploaded above.
 
-![Screenshot](images/sw.jpj)
+![Screenshot](images/sw.jpg)
